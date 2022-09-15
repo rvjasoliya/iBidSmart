@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (4.9.1)
+  - DynamicBlurView (4.1.0)
+  - IQKeyboardManager (6.5.6)
+  - PopupDialog (1.1.1):
+    - DynamicBlurView (~> 4.0)
+  - SDWebImage (5.10.0):
+    - SDWebImage/Core (= 5.10.0)
+  - SDWebImage/Core (5.10.0)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (5.0.0)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManager
+  - PopupDialog
+  - SDWebImage
+  - SVProgressHUD
+  - SwiftyJSON
+  - Toast-Swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DynamicBlurView
+    - IQKeyboardManager
+    - PopupDialog
+    - SDWebImage
+    - SVProgressHUD
+    - SwiftyJSON
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  DynamicBlurView: 58e18fae80bb614e34681a4486870e7d257b62e8
+  IQKeyboardManager: 2a6e97afdafc7becf0cb17a9a8d795e3a980717f
+  PopupDialog: 720c92befd8bc23c13442254945213db5612f149
+  SDWebImage: 9169792e9eec3e45bba2a0c02f74bf8bd922d1ee
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: fd96d381319c83d38af0270cd6bf6585f9babc22
+
+COCOAPODS: 1.10.0

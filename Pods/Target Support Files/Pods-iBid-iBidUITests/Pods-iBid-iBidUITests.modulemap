@@ -1,0 +1,6 @@
+framework module Pods_iBid_iBidUITests {
+  umbrella header "Pods-iBid-iBidUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
